@@ -1,7 +1,7 @@
 {
 	"dependencies": {
 		"@apollo/gateway": "^2.9.2",
-		"@jeff-tian/graphql-transform-federation": "^3.1.4",
+		"@jeff-tian/graphql-transform-federation": "^3.1.12",
 		"apollo-server": "^3.13.0"
 	}
 }
