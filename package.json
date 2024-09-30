@@ -3,5 +3,8 @@
 		"@apollo/gateway": "^2.9.2",
 		"@jeff-tian/graphql-transform-federation": "^3.1.13",
 		"apollo-server": "^3.13.0"
+	},
+	"scripts": {
+		"start": "node app.js"
 	}
 }
